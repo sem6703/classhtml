@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.271,F:\!\projAll\academy\Unit1aka.dfm=C:\Users\ф\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,=C:\Users\ф\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.271,F:\!\projAll\academy\Unit1aka.pas=C:\Users\ф\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.522,F:\!\projAll\academy\aka1.dproj=C:\Users\ф\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021.04.09 13:59:29.750,F:\!\projAll\academy\Unit1class.pas=F:\!\projAll\academy\Unit1aka.pas</Transaction>
+    <Transaction>2021.04.09 13:59:29.750,F:\!\projAll\academy\Unit1class.dfm=F:\!\projAll\academy\Unit1aka.dfm</Transaction>
+    <Transaction>2021.04.09 13:59:42.652,F:\!\projAll\academy\class1.dproj=F:\!\projAll\academy\aka1.dproj</Transaction>
+    <Transaction>2021.04.09 19:55:35.246,F:\!\projAll\academy\Unit2class.pas=F:\!\projAll\academy\Unit1class.pas</Transaction>
+    <Transaction>2021.04.09 19:55:35.347,F:\!\projAll\academy\Unit2class.dfm=F:\!\projAll\academy\Unit1class.dfm</Transaction>
+    <Transaction>2021.04.09 19:55:55.076,F:\!\projAll\academy\class2.dproj=F:\!\projAll\academy\class1.dproj</Transaction>
+    <Transaction>2021.04.09 22:37:28.399,F:\!\projAll\academy\Unit3class.pas=F:\!\projAll\academy\Unit2class.pas</Transaction>
+    <Transaction>2021.04.09 22:37:28.441,F:\!\projAll\academy\Unit3class.dfm=F:\!\projAll\academy\Unit2class.dfm</Transaction>
+    <Transaction>2021.04.09 22:37:38.141,F:\!\projAll\academy\class3.dproj=F:\!\projAll\academy\class2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
